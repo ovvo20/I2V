@@ -2,7 +2,7 @@
 
 ## 图1
 
-![动漫角色2](https://github.com/user-attachments/assets/a24bc904-c947-442f-8d3c-5e8d3a05aa82)
+<img src="https://github.com/user-attachments/assets/a24bc904-c947-442f-8d3c-5e8d3a05aa82" alt="动漫角色2" width="300" />
 
 ### 可灵
 
