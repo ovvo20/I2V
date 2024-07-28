@@ -36,7 +36,26 @@
 
 <img src="https://github.com/user-attachments/assets/03f533ff-447b-4101-a5c8-758e0d0d6d8d" alt="pika1" width="300" />
 
-（受分辨率，提示词等影响，DynamiCrafter和I2VGen-XL两个开源模型都无法生成基本的人物视频，效果较差）
+### DynamiCrafter
+
+```
+（这里换了一张图像）描述：girl turning around
+```
+
+<img src="https://github.com/user-attachments/assets/9c321eee-e2e6-477d-a802-b335044e5401" alt="DynamiCrafter1" width="300" />
+
+### I2VGen-XL
+
+```
+（这里换了一张图像）描述：girl turning around
+```
+
+<img src="" alt="I2VGen-XL1" width="300" />
+
+### 总结
+
+1. 可灵效果最好，通过简单的提示词即可生成视频。Luma、Runaway Gen-2和Pika需要多次调整提示词，但生成效果受限，可能由于模型对于“turn around”词组的训练数据较少等原因。
+2. 受分辨率，提示词等影响，DynamiCrafter和I2VGen-XL两个开源模型都无法生成基本的人物视频，模型效果较差。采用新图片也没有生成良好的效果。
 
 ## 图2
 
@@ -82,4 +101,14 @@
 
 <img src="https://github.com/user-attachments/assets/a5d69f38-225f-4447-a52b-68c7103415f8" alt="DynamiCrafter2" width="300" />
 
-（受分辨率，提示词等影响，I2VGen-XL开源模型都无法生成基本的人物视频，效果较差）
+### I2VGen-XL
+
+```
+描述：girl walking
+```
+
+<img src="https://github.com/user-attachments/assets/b31ab200-956f-4ec3-8a30-eeaeb96f01ba" alt="I2VGen-XL2" width="300" />
+
+### 总结
+
+受分辨率，提示词等影响，I2VGen-XL开源模型都无法生成基本的人物视频，效果较差
